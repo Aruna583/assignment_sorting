@@ -1,5 +1,5 @@
 import './App.css'
-import ltinearyData from '../../ltineary.json'
+import ltinearyData from '../ltineary.json'
 import { closestCenter, closestCorners, DndContext, KeyboardSensor, PointerSensor, TouchSensor, useSensor, useSensors } from '@dnd-kit/core'
 import { useState } from 'react'
 import Cards from './components/Cards';
