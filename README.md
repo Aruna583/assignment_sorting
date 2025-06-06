@@ -1,3 +1,21 @@
+# Packages Used
+
+JSON Server was used to create a basic mock API for data handling during development.
+
+Vite was used as the build tool for setting up the React project, ensuring fast development and hot module replacement.
+
+Tailwind CSS was implemented for efficient and utility-first styling of the user interface.
+
+dnd-kit was used to enable smooth drag-and-drop functionality within the application.
+
+The UI was made responsive to support both mobile and desktop views.
+
+React Icons package was used to include scalable and customizable icons throughout the UI.
+
+Cloudinary was used for generating and hosting image URLs dynamically.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
