@@ -1,0 +1,44 @@
+{
+  "ltinearyData": [
+    {
+      "id": 1,
+      "placeName": "Indida Gate",
+      "rating": "4.6",
+      "description": "India Gate is a war memorial located in New Delhi, along the Rajpath. It is dedicated to the 82,000 soldiers, both Indian and British.",
+      "viewsCount": "(281,124)",
+      "imageUrl": "https://res.cloudinary.com/ddectomha/image/upload/v1749185538/Delhi091_lwwtf6.jpg"
+    },
+    {
+      "id": 2,
+      "placeName": "Red Fort",
+      "rating": "4.5",
+      "description": "The Red Fort is a historical fort in the old Delhi area, on the banks of Yamuna.",
+      "viewsCount": "(168,729)",
+      "imageUrl": "https://res.cloudinary.com/ddectomha/image/upload/v1749185538/red-fort-710x350_ronczv.jpg"
+    },
+    {
+      "id": 3,
+      "placeName": "Qutub Minar",
+      "rating": "4.5",
+      "description": "Qutub Minar is a minaret or a victory tower located in the Qutub complex, a UNESCO World Heritage Site in Delhi's Mehrauli area.",
+      "viewsCount": "(151,556)",
+      "imageUrl": "https://res.cloudinary.com/ddectomha/image/upload/v1749185538/qutub_minar_yebihs.jpg"
+    },
+    {
+      "id": 4,
+      "placeName": "Lotus Temple",
+      "rating": "4.6",
+      "description": "Located in the national capital of New Delhi, the Lotus Temple is an edifice dedicated to the Baha'i faith.",
+      "viewsCount": "(67,772)",
+      "imageUrl": "https://res.cloudinary.com/ddectomha/image/upload/v1749185539/LotusDelhi_g9lxmo.jpg"
+    },
+    {
+      "id": 5,
+      "placeName": "Humayun's tomb",
+      "rating": "4.5",
+      "description": "Humayun's tomb is the final resting place of the Mughal Emperor Humayun.",
+      "viewsCount": "(46,024)",
+      "imageUrl": "https://res.cloudinary.com/ddectomha/image/upload/v1749185539/humayuns-tomb-delhi-1-attr-hero_mvdi3s.jpg"
+    }
+  ]
+}
